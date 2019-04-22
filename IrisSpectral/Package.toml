@@ -1,0 +1,3 @@
+name = "IrisSpectral"
+uuid = "325a41b4-4a57-11e9-029c-c5a15b674299"
+repo = "https://github.com/wrs28/IrisSpectral.jl.git"

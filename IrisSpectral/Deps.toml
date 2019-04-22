@@ -1,0 +1,10 @@
+["0"]
+ArnoldiMethod = "ec485272-7323-5ecc-a04f-4719b315124d"
+ArnoldiMethodWrapper = "fede57cc-428a-11e9-3e5c-c149a0a4072d"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+IrisBase = "2c9ecdf8-4a52-11e9-39a9-59d6a9787d27"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NonlinearEigenproblems = "067cfa3b-fa88-53b2-a873-5b23b3a16e31"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"

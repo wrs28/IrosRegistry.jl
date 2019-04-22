@@ -1,0 +1,14 @@
+name = "IrosRegistry"
+uuid = "ffee7c97-fb58-4e81-b8a5-ed8cf42b8dbc"
+repo = "https://github.com/wrs28/IrosRegistry.git"
+description = "For Iros.jl"
+
+[packages]
+fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodWrapper", path = "ArnoldiMethodWrapper"}
+# 7edf5c3c-4a51-11e9-106e-0de8ad83fb01 = { name = "Iris", path = "Iris"}
+dc165baa-4ec7-4ba6-9649-6ad7c8c72a04 = { name = "IrosBase", path = "IrosBase" }
+# 325a41b4-4a57-11e9-029c-c5a15b674299 = { name = "IrisSpectral", path = "IrisSpectral"}
+# 6ed6c396-4a58-11e9-1db8-19b1dcb39f34 = { name = "IrisFloquet", path = "IrisFloquet"}
+# e8a29fba-4a58-11e9-29ba-414d2217d7cf = { name = "IrisScattering", path = "IrisScattering"}
+# cb89118e-5656-11e9-34fa-4714eb8b3a0f = { name = "IrisSCPA", path = "IrisSCPA"}
+# a6ba56b0-5656-11e9-2bae-710ee715d732 = { name = "IrisSALT", path = "IrisSALT"}
