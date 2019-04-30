@@ -7,4 +7,4 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 ["1.1-1"]
 MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
 MUMPS3 = "8158958c-316f-11e9-3ff7-338d4f1f622e"
-Pardiso = "648fb4b8-0de2-4f08-ac11-69afa4645e4f"
+Pardiso = "46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2"
