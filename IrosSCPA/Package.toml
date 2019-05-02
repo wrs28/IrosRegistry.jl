@@ -1,0 +1,3 @@
+name = "IrosSCPA"
+uuid = "ffc3f4d5-b14f-5bb7-8bcd-c8754cb9bf2d"
+repo = "https://github.com/wrs28/IrosScattering.jl.git"

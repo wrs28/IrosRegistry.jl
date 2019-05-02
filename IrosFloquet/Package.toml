@@ -1,0 +1,3 @@
+name = "IrosFloquet"
+uuid = "325b1258-71f0-5f33-8884-69ee6b74aed3"
+repo = "https://github.com/wrs28/IrosFloquet.jl.git"
