@@ -6,11 +6,3 @@ description = "For Iros.jl"
 [packages]
 fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodTransformations", path = "ArnoldiMethodTransformations"}
 573aa7f4-91c9-40a8-9c96-241bf90c799c = { name = "Iros", path = "Iros"}
-# dc165baa-4ec7-4ba6-9649-6ad7c8c72a04 = { name = "IrosBase", path = "IrosBase" }
-# e66d2882-6afb-11e9-2ba9-e36c7c16e84e = { name = "IrosDefaults", path = "IrosDefaults"}
-# 325b1258-71f0-5f33-8884-69ee6b74aed3 = { name = "IrosFloquet", path = "IrosFloquet"}
-# 6e89c309-8aef-5d76-a55c-da59ac3a087f = { name = "IrosSALT", path = "IrosSALT"}
-# 30a2cb00-b8a6-54dd-b9b8-72be8504d472 = { name = "IrosScattering", path = "IrosScattering"}
-# ffc3f4d5-b14f-5bb7-8bcd-c8754cb9bf2d = { name = "IrosSCPA", path = "IrosSCPA"}
-# b2ce5262-62bd-11e9-037d-a93ccda198f7 = { name = "IrosSpectral", path = "IrosSpectral"}
-8158958c-316f-11e9-3ff7-338d4f1f622e = { name = "MUMPS3", path = "MUMPS3"}
